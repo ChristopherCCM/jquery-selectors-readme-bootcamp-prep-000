@@ -1,7 +1,7 @@
-function paragraphSelector() {
+$(function(){
   $('p')
-}
+});
 
 function lastImageSelector() {
-  
+
 }
