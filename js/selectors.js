@@ -2,6 +2,6 @@ $(document).ready(function(paragraphSelector) {
   $("p")
 });
 
-function lastImageSelector() {
-
-}
+$(document).ready(function(lastImageSelector() {
+  $('img:last');
+});
