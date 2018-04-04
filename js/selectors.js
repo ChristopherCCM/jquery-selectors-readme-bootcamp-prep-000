@@ -1,5 +1,5 @@
 $(function(){
-  $('p')
+  $("p")
 });
 
 function lastImageSelector() {
